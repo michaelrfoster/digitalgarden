@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/theology-of-dor-balar/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/the-world/theology-of-dor-balar/"}
 ---
 
 > "Bless us O good and generous Six, and these gifts we are about to receive from your bounty. Bless our friends and family who've come to dine with us today, that we may worship you again, come the new dawn. By their grace."

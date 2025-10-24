@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mortal-races/mortal-races/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/mortal-races/mortal-races/"}
 ---
 
 > "When the drinking age of any patron is in question, please consult the most up-to-date copy of the *Linthirian Code of Legal Standards*, section XII, subsection xvii, for a grid detailing the ages of maturity for all mortal races and their signifiers. Failure to comply to current drinking standards will result in a liquor license revocation for any offending establishment, with the submission of appeals to occur no earlier than 6 months post-offense. Glory to the Empire."

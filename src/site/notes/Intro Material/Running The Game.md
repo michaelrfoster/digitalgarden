@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/intro-material/running-the-game/"}
 ---
 
-
 > "May our children never again suffer under the chains of tyranny. May they never feel hunger. May they never feel pain. May they never meet the dawn asking if today will be their last. We have suffered. We are learned. We must be better."
 > 
 > *Closing passage of the [[Syrillian Covenant\|Syrillian Covenant]], signed by the leaders of all mortal nations*

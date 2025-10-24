@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/magical-hierarchy/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/the-world/magical-hierarchy/"}
 ---
 
 > "Have you *heard* about what transpired at last week's Midnight Gala? I tell you, I was sitting but three seats down from that [[Stravalli\|Stravalli]] boy—fifth in line for the house seat if I recall—as he attempted to ***seduce*** the young [[Thjorvidson\|Thjorvidson]] debutante from across the table! I'd say I pity the poor girl, but with a casual wave of her wrist, she sent a nearby platter of escargot careening toward the boy, toppling him from his seat! I'll never understand those dragons, as even on the ground, staring up at his assailant, I'd swear that [[Stravalli\|Stravalli]] boy looked even more taken with her than when the night began!"

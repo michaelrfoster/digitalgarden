@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/brief-history-of-dor-balar/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/the-world/brief-history-of-dor-balar/"}
 ---
-
 
 > "I fear not the demons wielding spears of hellfire, nor the fey spiriting away our soldiers in the night. I fear not the divine power scorching through this blade, nor the radiance which threatens to subsume my mind. No. I fear the bottomless malice that roils within the hearts of mortal men. And I fear that in banishing these enemies to hell, we damn ourselves to one of our own making."
 > 
