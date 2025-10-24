@@ -28,10 +28,7 @@ By contrast, magical items are revered across [[The World/Dor'Balar\|Dor'Balar]]
 - [[The World/Brief History of Dor'Balar\|Brief History of Dor'Balar]]
 - [[The World/Magical Hierarchy\|Magical Hierarchy]]
 - [[The World/Theology of Dor'Balar\|Theology of Dor'Balar]]
-- [[Nations/Jkaverstelle\|Jkaverstelle]]
-- [[Nations/Anbuur\|Anbuur]]
 - [[Mortal Races/Mortal Races\|Mortal Races]]
-- [[Classes\|Classes]]
 
 ---
 
