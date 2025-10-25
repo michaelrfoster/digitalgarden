@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/brief-history-of-dor-balar/"}
+{"dg-publish":true,"permalink":"/the-world/brief-history-of-dor-balar/","created":"2025-10-21T12:53:30.767-04:00","updated":"2025-10-24T16:34:01.365-04:00"}
 ---
 
 > "I fear not the demons wielding spears of hellfire, nor the fey spiriting away our soldiers in the night. I fear not the divine power scorching through this blade, nor the radiance which threatens to subsume my mind. No. I fear the bottomless malice that roils within the hearts of mortal men. And I fear that in banishing these enemies to hell, we damn ourselves to one of our own making."
 > 
 > *Etching recovered from the subterranean crypts of [[Cities and Towns/Linthir'Aprimos\|Linthir'Aprimos]]
 > Author Unknown, under study by Prof. Merylli'Ryspos Virtomir, 2512 ASC
-
 # The Syrillian Calendar
 
 Although many cultures throughout [[The World/Dor'Balar\|Dor'Balar]] have developed a calendars, the [[Syrillian Calendar\|Syrillian Calendar]]—established at the end of the [[The Ages/Second Age\|Second Age]]—is the primary calendar used today. The [[Syrillian Calendar\|Syrillian Calendar]] begins at year 1 with the signing of the [[Syrillian Covenant\|Syrillian Covenant]], all years following this event being denoted ASC (After the Syrillian Covenant), and all years prior increment in reverse and are denoted using BSC (Before the Syrillian Covenant).
@@ -71,3 +70,5 @@ This period of peace, however, was never meant to last. And as generations pass 
 ## Where are we now?
 
 It's been 75 years since the last of the [[Great Houses of Jkaverstelle\|Great Houses of Jkaverstelle]] joined the Kingdom. And for most of that, the nations of [[Nations/Anbuur\|Anbuur]] and [[Nations/Jkaverstelle\|Jkaverstelle]] and the peoples of [[The World/Dor'Balar\|Dor'Balar]] have enjoyed relative peace. In the last 10 years however, a number of aggressive moves from both nations have seen military tension and anxieties rise throughout the continent. At the same time, cult sightings and evidence of demonic activity have been on the rise, and despite efforts to investigate, no one can identify the cause.
+
+![Map of Dor'Balar.jpg](/img/user/The%20World/Map%20of%20Dor'Balar.jpg)

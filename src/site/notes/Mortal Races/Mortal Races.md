@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mortal-races/mortal-races/"}
+{"dg-publish":true,"permalink":"/mortal-races/mortal-races/","created":"2025-10-16T20:12:45.584-04:00","updated":"2025-10-23T21:48:00.126-04:00"}
 ---
 
 > "When the drinking age of any patron is in question, please consult the most up-to-date copy of the *Linthirian Code of Legal Standards*, section XII, subsection xvii, for a grid detailing the ages of maturity for all mortal races and their signifiers. Failure to comply to current drinking standards will result in a liquor license revocation for any offending establishment, with the submission of appeals to occur no earlier than 6 months post-offense. Glory to the Empire."
@@ -20,7 +20,7 @@ In [[The World/Dor'Balar\|Dor'Balar]], "Mortal Races" are another word for Human
 - Close ties with [[Half-folk\|Half-folk]] sharing their human blood.
 ## [[Mortal Races/Dwarves\|Dwarves]]
 
-- Patron god [[Gudmunhil\|Gudmunhil]], god of the moon.
+- Patron god [[The World/Divine Aspects/Gudmunhil\|Gudmunhil]], god of the moon.
 - Talented ironworkers and miners.
 - Only a few generations have passed for them since the fall of the [[Nations/Linthirian Empire\|Linthirian Empire]], so anti-elf sentiments are strongest with the Dwarves.
 ## [[Smallfolk\|Smallfolk]]
@@ -47,7 +47,7 @@ Humans, embodying the virtue of their patron deity [[Jvesgar\|Jvesgar]], god of 
 ## [[Mortal Races/Dragonborn\|Dragonborn]]
 
 - Created in the [[The Ages/Second Age\|Second Age]] by the [[Draconic Dynasty\|Draconic Dynasty]].
-- Patron deity of [[Strozkus\|Strozkus]], God of the Stars.
+- Patron deity of [[The World/Divine Aspects/Strozkus\|Strozkus]], God of the Stars.
 	- Strozkus was originally the patron deity of dragons, but sided with the mortal races in the [[Syrillian Alliance\|Syrillian Alliance]].
 ## [[Mortal Races/Goliaths\|Goliaths]]
 

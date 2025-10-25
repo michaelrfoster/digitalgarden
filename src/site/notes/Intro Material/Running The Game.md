@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/intro-material/running-the-game/"}
+{"dg-publish":true,"permalink":"/intro-material/running-the-game/","created":"2025-10-20T15:23:24.447-04:00","updated":"2025-10-24T16:51:14.013-04:00"}
 ---
 
 > "May our children never again suffer under the chains of tyranny. May they never feel hunger. May they never feel pain. May they never meet the dawn asking if today will be their last. We have suffered. We are learned. We must be better."
@@ -39,20 +39,28 @@ You'll start in the [[Cities and Towns/Jkaverstelle/Kithraia\|Kithraia]], the ca
 
 - Your characters will begin the campaign at **level 3**.
 - Starting at a decent level with good stats, your characters can be respected/powerful members of the community (E.g., business owners, professors, nobles, war heroes, officers in the thieves guild, lieutenants in the [[Honored Watch\|Honored Watch]]). Though if you'd prefer playing someone with more humble standing, that's definitely fine too.
+## D&D 2024 Rules
+
+For this campaign, we'll be using the new 2024 published rules for D&D. It's mostly the same, but there are a few things you'll need to keep in mind for character creation, so look at the rules online (wikidot has all the new info) or wait until the session 0 and we can go through some of the initial steps together.
 ## Rolling For Stats
 
 In this campaign, I'm using the "**roll 5d6 and pick the top 3**" method when rolling for stats. E.g., if I rolled 5d6s and got [6, 5, 5, 3, 1], I would add the highest three values (6+5+5) to get 16.
 
 That said, feel free to use standard array, point by, or roll 4d6 pick top 3 if you'd prefer (though those will likely result in lower stats).
+
+Whichever you choose, jot down the initial stats you end up rolling. That way, if stats are temporarily changed for any reason or I allow a re-spec at any point, we can always get back to your correct values.
 ## Rolling for HP
 
 When you level up past level 1, you gain maximum hit points equal to the **greater value between**: 
+
 1. Average value for your hit die (rounded up)
 2. What you roll on a hit die
+
 ... plus your constitution modifier. In a sense, this means you'll either get the normal "average value for your hit die (rounded up)" as a **minimum** with the chance that you increase your HP even more if you roll well enough.
 
 E.g., if I level up and take a level of monk (1d8 hit die), then the average value for that die is 5 hit points. I can then roll my 1d8 and choose the larger between the roll and that average of 5. So if I rolled a 2 on my 1d8 roll, I'd use the 5 plus my constitution modifier, but if I rolled a 7, I could use that 7 plus my constitution modifier.
 
+And for tracking purposes, just like your initial stats, keep a record of how much health you gained at each level (e.g., jot it down on the back of your character sheet). That way, if your health temporarily changes at any point, we can always re-calc the value.
 # Rule Changes
 ## Long Rests = 7 days, Short Rests = 8 hours
 
@@ -80,7 +88,7 @@ This is something we can discuss during session 0, but there are a handful of ru
    
    Let's talk about what we want to see, and if some players using spellcasters want to use material components and some don't, we can always say that in this world that only certain classes can use magical focuses, and others need the material components. E.g., if a wizard player wants to require have material components but a cleric player doesn't want to bother, we can say that in this world spellcasters using divine magic can use their holy symbols, but wizards lacking that godly connection must resort to using material components.
    
-1. Do we want to track weight in the game and/or prevent physically weak characters are carrying too much? 
+2. Do we want to track weight in the game and/or prevent physically weak characters are carrying too much? 
    
    On one hand, strength is generally the least important skill in D&D and is frequently dumped during character creation, so by adding either rules for **carrying capacity**, **encumbrance**, or both, it might make that stat feel more impactful. On the other hand, it can be annoying to keep track of items and item weight, so it might be more trouble than it's worth. 
    

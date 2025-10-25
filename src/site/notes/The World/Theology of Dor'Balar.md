@@ -1,20 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/theology-of-dor-balar/"}
+{"dg-publish":true,"permalink":"/the-world/theology-of-dor-balar/","created":"2025-10-23T12:09:05.304-04:00","updated":"2025-10-23T21:47:57.365-04:00"}
 ---
 
 > "Bless us O good and generous Six, and these gifts we are about to receive from your bounty. Bless our friends and family who've come to dine with us today, that we may worship you again, come the new dawn. By their grace."
 > 
 > *A short prayer traditionally spoken before supper, catalogued in The Binding of 30th Century Doctrines*
-> *Helverrâd Jadeheart, Dwarven priestess of [[Gudmunhil\|Gudmunhil]], 2998 ASC*
+> *Helverrâd Jadeheart, Dwarven priestess of [[The World/Divine Aspects/Gudmunhil\|Gudmunhil]], 2998 ASC*
 
 # The [[The World/Divine Aspects\|Divine Aspects]]
 
 People of [[The World/Dor'Balar\|Dor'Balar]] worship the six major deities known as the [[The World/Divine Aspects\|Divine Aspects]]. Information on these deities and their domains are as follows:
-## [[Strozkus\|Strozkus]], God of the Stars
+## [[The World/Divine Aspects/Strozkus\|Strozkus]], God of the Stars
 
 - Patron deity of [[Mortal Races/Dragonborn\|Dragonborn]]
-- Originally the patron deity of the [[Dragons\|Dragons]], [[Strozkus\|Strozkus]] favored the [[Mortal Races/Dragonborn\|Dragonborn]] and the other [[Mortal Races/Mortal Races\|mortal races]] in the [[Syrillian Alliance\|Syrillian Alliance]] at the end of the [[The Ages/Second Age\|Second Age]] onward.
-## [[Gudmunhil\|Gudmunhil]], God of the Moon
+- Originally the patron deity of the [[Dragons\|Dragons]], [[The World/Divine Aspects/Strozkus\|Strozkus]] favored the [[Mortal Races/Dragonborn\|Dragonborn]] and the other [[Mortal Races/Mortal Races\|mortal races]] in the [[Syrillian Alliance\|Syrillian Alliance]] at the end of the [[The Ages/Second Age\|Second Age]] onward.
+## [[The World/Divine Aspects/Gudmunhil\|Gudmunhil]], God of the Moon
 
 - Patron deity of [[Mortal Races/Dwarves\|Dwarves]]
 ## [[Kethryllia\|Kethryllia]], Goddess of Magic
