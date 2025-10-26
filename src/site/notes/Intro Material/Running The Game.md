@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/intro-material/running-the-game/","created":"2025-10-20T15:23:24.447-04:00","updated":"2025-10-24T16:51:14.013-04:00"}
+{"dg-publish":true,"permalink":"/intro-material/running-the-game/","created":"2025-10-20T15:23:24.447-04:00","updated":"2025-10-26T12:07:48.173-04:00"}
 ---
 
 > "May our children never again suffer under the chains of tyranny. May they never feel hunger. May they never feel pain. May they never meet the dawn asking if today will be their last. We have suffered. We are learned. We must be better."
@@ -15,7 +15,7 @@ You can read more about the world of [[The World/Dor'Balar\|Dor'Balar]] in the s
 War between the nations of [[Nations/Jkaverstelle\|Jkaverstelle]] and [[Nations/Anbuur\|Anbuur]] has not yet begun, but tensions have been rising for some time. Skirmishes at the border, failed peace talks, and growing unrest due to widespread cult activity spark anxieties across [[The World/Dor'Balar\|Dor'Balar]]. Even the shoe-shiners earning their bread in [[Cities and Towns/Jkaverstelle/Kithraia\|Kithraia]]'s bustling [[Azure Square\|Azure Square]] can see the writing on the wall, a sentiment whispered between busker and banker alike, "war is coming".
 ### 2. Magic low powered, but magic items are sacred
 
-[[Mortal Races/Mortal Races\|Mortal races]] make inefficient conduits of magic, especially so after the death of [[Kethryllia\|Kethryllia]], goddess of magic, at the end of the [[The Ages/Third Age\|Third Age]]. Spellcasters of the [[The Ages/Current Age\|Current Age]] can still perform feats of great magic, but they require long periods of arcane rejuvenation to recover spent spell slots (See the section on long/short rests below). As a result, the people of [[The World/Dor'Balar\|Dor'Balar]] rarely rely on or even see magic in their daily lives; and when magic does become a factor (like in the sorcerous bloodlines of the [[Great Houses of Jkaverstelle\|Great Houses of Jkaverstelle]]), one's magical ability is easily overshadowed by relative prestige, power, and money one holds. 
+[[Mortal Races/Mortal Races\|Mortal races]] make inefficient conduits of magic, especially so after the death of [[Kethryllia\|Kethryllia]], goddess of magic, at the end of the [[The Ages/Third Age\|Third Age]]. Spellcasters of the [[The Ages/Current Age\|Current Age]] can still perform feats of great magic, but they require long periods of arcane rejuvenation to recover spent spell slots (See the section on long/short rests below). As a result, the people of [[The World/Dor'Balar\|Dor'Balar]] rarely rely on or even see magic in their daily lives; and when magic does become a factor (like in the sorcerous bloodlines of the Great Houses of Jkaverstelle), one's magical ability is easily overshadowed by relative prestige, power, and money one holds. 
 
 By contrast, magical items are revered across [[The World/Dor'Balar\|Dor'Balar]]. Said to be divine in nature, items imbued with magic are powerful, respected, and rare. The methods to create these items were lost at the end of the [[The Ages/Third Age\|Third Age]], but even at the time, the items created by the fallen [[Nations/Linthirian Empire\|Linthirian Empire]] paled in comparison to the legendary artifacts of the ages preceding it. To this day, magical items are considered sacred by the [[Church of the Divine Aspects\|Church of the Divine Aspects]] and are guarded fiercely by their lucky owners. 
 ### 3. The Cults of [[The World/Dor'Daedeloth\|Dor'Daedeloth]]
@@ -28,13 +28,16 @@ By contrast, magical items are revered across [[The World/Dor'Balar\|Dor'Balar]]
 - [[The World/Magical Hierarchy\|Magical Hierarchy]]
 - [[The World/Theology of Dor'Balar\|Theology of Dor'Balar]]
 - [[Mortal Races/Mortal Races\|Mortal Races]]
+- [[Nations/Jkaverstelle\|Jkaverstelle]]
 
 ---
 
 # Character Creation
 ## Hook
 
-You'll start in the [[Cities and Towns/Jkaverstelle/Kithraia\|Kithraia]], the capital city of [[Nations/Jkaverstelle\|Jkaverstelle]] asked by the [[Honored Watch\|Honored Watch]] to investigate some strange happenings in the eastern arboreal town of [[Cities and Towns/Jkaverstelle/Dru-Karmaz\|Dru-Karmaz]]. 
+You begin the adventure in [[Cities and Towns/Jkaverstelle/Kithraia\|Kithraia]], the capital city of [[Nations/Jkaverstelle\|Jkaverstelle]]. Recently, lumber shipments from the eastern town of [[Cities and Towns/Jkaverstelle/Dru-Karmaz\|Dru-Karmaz]] have been slowing down, and the noble [[First Adventure/Landers Amfrey\|Landers Amfrey]]—of the prestigious House of [[Amfrey\|Amfrey]]—in charge of shipments from this area has been strangely dismissive of these changes. This alone is not cause for concern, but recently, a [[Cities and Towns/Jkaverstelle/Kithraia\|Kithraian]] local named Kurinur Vra-Eklund came to the [[Honored Watch\|Honored Watch]] with a letter sent to her by her brother—the sheriff of [[Cities and Towns/Jkaverstelle/Dru-Karmaz\|Dru-Karmaz]]. In this letter, sheriff Urthgar Vra-Eklund mentioned that locals had recently reported sightings of a demon of all things stalking the midnight woods; Urthgar goes on to say that, although skeptical, he'd investigate these claims before heading to [[Cities and Towns/Jkaverstelle/Kithraia\|Kithraia]] to see his sister Kurinur's new child. This letter was sent three weeks ago.
+
+**For you players**, decide how your characters would have heard about this event, and who may have requested that they go. The [[Honored Watch\|Honored Watch]]—the guard organization in [[Cities and Towns/Jkaverstelle/Kithraia\|Kithraia]]—may have asked for your character to assist personally, or they may have put a bounty to investigate on the local bounty-board. A member of House [[Amfrey\|Amfrey]] may have specifically requested your assistance. You could have lived in [[Cities and Towns/Jkaverstelle/Dru-Karmaz\|Dru-Karmaz]] and just so happened to be in the area when these events transpired. Think about it and we can talk about how to best fit your character into this narrative.
 ## Basic Info
 
 - Your characters will begin the campaign at **level 3**.
@@ -70,10 +73,10 @@ This is a pretty major change, but for this campaign I'm running with the altern
 
 Like it says in the rulebook, the game is balanced for somewhere between 5-8 resource expending encounters between long rests (sometimes combat, sometimes puzzle solving requiring resources). I'll try easing us into this and not have too many encounters at the beginning of the campaign to see how we like it, but this is at least how I want to start. Plus, since I wanted this world to have lower-powered magic than we've done before, requiring a long period of rest for spellcasters to get their slots back seemed to fit.  ~~(Unless of course, you're willing to play a warlock 😈)~~
 
-> [!NOTE] Marshalls vs. Casters
-> Spellcasters in D&D are generally much more powerful than marshal characters, there's a reason why in the Icewind Dale damage calcs, our top 3 performers were full spell casters (and it wasn't even really close). By using the 5-8 encounters per long rest, I think the Marshal/Caster breakdown will be something closer to:
+> [!NOTE] Martials vs. Casters
+> Spellcasters in D&D are generally much more powerful than martial characters, there's a reason why in the Icewind Dale damage calcs, our top 3 performers were full spell casters (and it wasn't even really close). By using the 5-8 encounters per long rest, I think the Martial/Caster breakdown will be something closer to:
 > 
-> Marshalls excel at sustained damage + tank, while spellcasters excel at explosive damage in a pinch + versatility/support with their magic.
+> Martials excel at sustained damage + tank, while spellcasters excel at explosive damage in a pinch + versatility/support with their magic.
 
 ## Recharging Items/Abilities
 
